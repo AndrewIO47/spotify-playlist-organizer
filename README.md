@@ -13,11 +13,7 @@ Using Spotify API to organize playlists based on the genre of the songs.
 ### List User Playlists
 * GET `/listPlaylists/{user_name}`
 
-# NOTE 
-Spotify API 
-https://developer.spotify.com/documentation/web-api/reference/#/
+# Getting Started 
 
-* Create Playlist
-* Add Items to Playlist
-* Get Several Tracks 
-* Get Playlist Items
+1. Log in to your Spotify Developer account 
+2. To get the CLIENT_SECRET and CLIENT_ID go to the Developer Dashboard on Spotify
